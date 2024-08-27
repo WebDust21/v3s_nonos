@@ -1,0 +1,4 @@
+[submodule "lib/lvgl9"]
+	path = lib/lvgl9
+	url = git@github.com:lvgl/lvgl.git
+	branch = release/v9.2
